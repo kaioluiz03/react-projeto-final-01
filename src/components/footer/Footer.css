@@ -1,0 +1,60 @@
+.rodape{
+    width: 100%;
+    height: auto;
+    background-color: black;
+    border-top: chartreuse solid 3px;
+    box-shadow: 0 5px 30px chartreuse;
+    position: absolute;
+    top: 900px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.rodape h3{
+    color: chartreuse;
+    text-shadow: 0 0 0.5em chartreuse, 0 0 0.5em chartreuse;
+    letter-spacing: 5px;
+}
+
+.criadores{
+    width: 400px;
+    height: 250px;
+    background-color: rgb(28, 163, 190);
+    margin: 25px;
+    padding: 15px;
+    box-shadow: 0 5px 30px rgb(28, 163, 190);
+
+}
+.criadores ul{
+  margin-top: 15px;
+  text-align: center;  
+}
+.criadores li{
+    line-height: 2rem;
+    list-style-type: none;
+    text-decoration: underline chartreuse;
+}
+
+
+.sobre{
+    width: 60vw;
+    height: auto;
+    background-color: rgb(28, 163, 190);;
+    margin: 25px;
+    padding: 15px;
+    box-shadow: 0 5px 30px rgb(28, 163, 190);;
+}
+.sobre p{
+    margin: 20px 0 20px 0;
+}
+
+@media (max-width: 1000px){
+    .criadores{
+        width: 100vw;
+    }
+    .sobre{
+        width: 100vw;
+        height: auto;
+    }
+}
