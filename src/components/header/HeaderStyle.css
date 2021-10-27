@@ -20,7 +20,7 @@ img{
     box-shadow: 0 5px 30px chartreuse;
     position:fixed;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
     border-bottom: chartreuse solid 3px;

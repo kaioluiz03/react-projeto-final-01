@@ -4,8 +4,8 @@
     background-color: black;
     border-top: chartreuse solid 3px;
     box-shadow: 0 5px 30px chartreuse;
-    position: absolute;
-    top: 900px;
+    /* position: absolute;
+    top: 900px; */
     display: flex;
     justify-content: center;
     flex-wrap: wrap;

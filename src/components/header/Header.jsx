@@ -17,7 +17,7 @@ export function Header(){
                     <a href="">SOBRE A SÉRIE</a>
                     <a href="">DETALHES DOS PERSONAGENS</a>
                 </nav>
-                <button>▽</button>
+                {/* <button>▽</button> */}
             </header>
         </div>
 

@@ -1,0 +1,13 @@
+.container-Cards{
+    background-color: rgb(68, 67, 67);
+    width: 80vw;
+    height: auto;
+    position: relative;
+    top: 220px;
+    margin: auto;
+    margin-bottom: 300px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

@@ -8,14 +8,14 @@ section{
   background-color: rgb(28, 163, 190);
   border: chartreuse solid 2px;
   position: relative;
-  top: 220px;
   margin: auto;
+  margin-bottom: 50px;
 }
 
 .teste nav{
   border-bottom: chartreuse 5px solid;
   display: flex;
-  justify-content: center;
+  justify-content: center ;
   align-items: center;
 }
 .teste nav a{
@@ -41,7 +41,7 @@ section{
   height: auto;
   display: flex;
   justify-content: space-around;
-  align-items: baseline;
+  align-items: center;
   flex-wrap: wrap;
 }
 

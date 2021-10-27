@@ -1,0 +1,12 @@
+.card {
+    width: 200px;
+    height: 250px;
+    
+    margin: 50px;
+}
+
+.img-card{
+    width: 200px;
+    height: 250px;
+    border: chartreuse solid 2px;
+}
